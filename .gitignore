@@ -1,0 +1,16 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build directories
+/build/
+/dist/
+
+# Ignore NetBeans specific files
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/build.xml
+
+# Ignore manifest files
+/manifest.mf
+
