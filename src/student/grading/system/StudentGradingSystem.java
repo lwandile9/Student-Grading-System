@@ -11,8 +11,8 @@ public class StudentGradingSystem {
     public static void main(String[] args) {
               
         
-         frmMain frmMain =  new frmMain();
-          frmMain.show();
+         //frmMain frmMain =  new frmMain();
+         // frmMain.show();
           
         // Getting the user inputs in the console 
         try (Scanner scanner = new Scanner(System.in)) {
